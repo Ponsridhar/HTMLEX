@@ -1,10 +1,2 @@
-one
-two
-three
-four
-five
-six 
-seven
-eight
-Nine
-Ten
+view
+
